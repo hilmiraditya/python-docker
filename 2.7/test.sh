@@ -1,1 +1,0 @@
-docker build -t hilmiraditya/python:2.7-slim .

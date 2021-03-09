@@ -1,0 +1,1 @@
+docker build -t hilmiraditya/python:3-slim .
